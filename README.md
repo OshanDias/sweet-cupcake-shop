@@ -244,47 +244,9 @@ sweet-cupcake-shop/
 └── LICENSE                            # MIT License
 ```
 
-## 📐 UML Diagrams
 
-### Use Case Diagram
-![Use Case Diagram](Documentation/UML_Diagrams/UseCase_Diagram.png)
 
-Shows actors (Cashier, Manager) and their interactions with the system.
 
-### Class Diagram
-![Class Diagram](Documentation/UML_Diagrams/Class_Diagram.png)
-
-Illustrates class structure, relationships, and OOP concepts.
-
-### Sequence Diagrams
-- **Login Process** - User authentication flow
-- **Add Cupcake** - Product creation process
-- **Search Cupcake** - Category-based filtering
-- **Create Cashier** - Manager account creation
-
-*Full diagrams available in [Documentation/UML_Diagrams/](Documentation/UML_Diagrams/)*
-
-## 📸 Screenshots
-
-### Login Screen
-![Login](Documentation/screenshots/login.png)
-
-### Cashier Dashboard
-![Cashier Dashboard](Documentation/screenshots/cashier-dashboard.png)
-
-### Manager Dashboard
-![Manager Dashboard](Documentation/screenshots/manager-dashboard.png)
-
-### Add Cupcake Dialog
-![Add Cupcake](Documentation/screenshots/add-cupcake.png)
-
-## 📚 Documentation
-
-Comprehensive documentation is available in the `Documentation/` folder:
-
-- **[Main Report](Documentation/Main_Report.pdf)** - Complete system documentation
-- **[User Manual](Documentation/User_Manual.pdf)** - Step-by-step user guide
-- **[UML Diagrams](Documentation/UML_Diagrams/)** - All system diagrams
 
 ## 🏗️ Architecture
 
@@ -339,40 +301,7 @@ Potential improvements for future versions:
 - [ ] RESTful API
 - [ ] Web interface
 
-## 🤝 Contributing
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**[Your Name]**
-- Student ID: [Your ID]
-- Institution: Cardiff Metropolitan University (ICBT Campus)
-- Module: CSE4006 - Object Oriented Programming
-- Batch: HDSE 25.2
-
-## 🙏 Acknowledgments
-
-- Module Leader: upeka@icbtcampus.edu.lk
-- Cardiff Metropolitan University
-- ICBT Campus - Kandy Innovation Centre
-
-## 📧 Contact
-
-For questions or feedback:
-
-- **GitHub Issues:** [Create an issue](https://github.com/yourusername/sweet-cupcake-shop/issues)
-- **Email:** your.email@example.com
 
 ---
 
